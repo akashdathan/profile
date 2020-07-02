@@ -7,7 +7,7 @@ export default function Button() {
       <div style={{ margin: '16px', marginLeft: '5px', marginRight: '0px', color: '#39ff14' }}>{'>'}</div>
       <div style={{ margin: '16px', marginLeft: '2px', marginRight: '0px', color: '#39ff14' }}>{'$'}</div>
       <p style={{ marginLeft: '10px'}}>Hello&nbsp;World!</p>
-      <div style={{ margin: '12px', marginLeft: '0px' }} class="blink" />
+      <div style={{ margin: '12px', marginLeft: '0px' }} className="blink" />
     </div>
   )
 }
