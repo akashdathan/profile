@@ -16,10 +16,8 @@ body {
 
 .blink { 
   position: relative;
-  display: inline-block;
   font-family: Monaco, Arial, Helvetica, sans-serif;
   line-height: 24px;
-  font-size: 24px;
   color: white;
   /* margin: 16px; */
   /* min-width: 360px; */
